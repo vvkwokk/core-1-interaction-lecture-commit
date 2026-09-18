@@ -1,0 +1,26 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: rgb(181, 198, 235);
+  min-height: 100vh;
+  margin: 50px;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: dotted;
+}
+
+img:hover {
+  transform: scaleX(-1);
+}
+
+button{
+  border-radius: 50%;
+  background-color: greenyellow;
+  padding: 20px;
+}
+
+p, ul {
+  color: rgb(168, 64, 164);
+  filter: drop-shadow(1px 1px 1px rgb(9, 255, 132));
+}
